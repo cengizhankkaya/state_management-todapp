@@ -4,9 +4,11 @@ Bu proje, Flutter ile geliştirilmiş basit ve şık bir yapılacaklar listesi (
 
 ## 📱 Ekran Görüntüleri
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/39572496-9a79-4cce-a66a-52aebb6b0ada" alt="Ekran Görüntüsü 1" width="300" />
+  <img src="https://github.com/user-attachments/assets/8c8c7719-c7e7-4979-a027-3a2d729e7518" alt="Ekran Görüntüsü 2" width="300" />
+</p>
 
-![Ana Ekran](assets/images/screenshots/home.png)
-![Arama](assets/images/screenshots/search.png)
 
 > Not: Ekran görüntülerini eklemek için ilgili klasöre koymayı unutmayın.
 
