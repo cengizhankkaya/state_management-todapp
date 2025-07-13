@@ -10,8 +10,6 @@ Bu proje, Flutter ile geliştirilmiş basit ve şık bir yapılacaklar listesi (
 </p>
 
 
-> Not: Ekran görüntülerini eklemek için ilgili klasöre koymayı unutmayın.
-
 ## 🚀 Özellikler
 - Görev ekleme
 - Görevleri tamamlandı olarak işaretleme
